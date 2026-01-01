@@ -1,48 +1,75 @@
-<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Abhishek%20Saini&fontSize=72&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ayush%20Saini&fontSize=70&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<!-- CODING GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897002-1e9d6d2e-bb8a-4b33-8b6e-4bfc1d6c2a8f.gif" width="80%" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ayush+Saini;Full+Stack+Developer+🚀;BCA+Student+🎓;JavaScript+Lover+💙" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-
-<h3 align="center">
-  🚀 Full Stack Developer | ⚛️ React Enthusiast | 🧠 Problem Solver
-</h3>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=00E6FF&center=true&vCenter=true&width=600&lines=Building+Real+World+Web+Apps;Clean+UI+%26+Scalable+Code;React+%7C+JavaScript+%7C+Full+Stack;Learning+Every+Single+Day" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-9e33c8f5-b4e4-45c4-8c1f-ccf5c9b6f1c2.gif" width="400"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-- 🎓 **BCA Student (5th Semester)**
-- 💻 Focused on **Frontend + Full Stack Development**
-- ⚛️ Love working with **React & Modern UI**
-- 🧠 Practicing **DSA in JavaScript**
-- 🎯 Dream: **Professional Software Engineer**
+✨ Passionate **Full Stack Developer**  
+🎓 BCA Student (5th Semester)  
+💻 Skilled in **HTML, CSS, JavaScript**  
+🔥 Learning **MERN Stack & DSA**  
+🚀 Dream: Become a **Top Product-Based Company Engineer**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,firebase,nodejs,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## ⚡ GitHub Stats (Live Animated)
 
-```txt
-✔ Build responsive web applications
-✔ Create reusable React components
-✔ Convert UI designs into clean code
-✔ Improve performance & UX
-✔ Learn and apply new technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushsaini4141&show_icons=true&theme=tokyonight&border_radius=12" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsaini4141&theme=tokyonight&border_radius=12" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushsaini4141&theme=tokyo-night&radius=10"/>
+</p>
+
+---
+
+## 🚀 Currently Learning  
+
+- ⚛️ React.js  
+- 🌐 Node.js & Express  
+- 🧠 Data Structures & Algorithms  
+- 🔥 Backend Optimization  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/aayushsaini4141">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=30"/>
+</p>
