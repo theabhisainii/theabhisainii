@@ -24,11 +24,20 @@
 - 🔥 Passionate about building clean & modern UI
   mindset: "Consistency > Motivation"
 
-}
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AbhishekSaini">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
