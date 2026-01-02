@@ -1,75 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abhishek%20Saini&fontSize=70&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=260&section=header&text=Abhishek%20Saini&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhishek+Saini;Full+Stack+Developer+🚀;BCA+Student+🎓;JavaScript+Lover+💙" />
-</h1>
-
----
+<h3 align="center">🚀 Full Stack Developer | BCA Student | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-9e33c8f5-b4e4-45c4-8c1f-ccf5c9b6f1c2.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Learning+Full+Stack+Development;HTML+%7C+CSS+%7C+JavaScript;Future+Software+Engineer;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-
-✨ Passionate **Full Stack Developer**  
-🎓 BCA Student (5th Semester)  
-💻 Skilled in **HTML, CSS, JavaScript**  
-🔥 Learning **MERN Stack & DSA**  
-🚀 Dream: Become a **Top Product-Based Company Engineer**
+## 🙏 Jai Shree Ram 🙏
 
 ---
 
-## 🛠️ Tech Stack  
+## 👨‍💻 About Me
+
+- 🎓 **BCA Student (5th Semester)**
+- 💻 Frontend Developer (HTML, CSS, JavaScript)
+- 🌱 Currently learning **JavaScript & Full Stack**
+- 🎯 Goal: **Full Stack Developer Job**
+- 🔥 Passionate about building clean & modern UI
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats (Live Animated)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushsaini4141&show_icons=true&theme=tokyonight&border_radius=12" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhisainii&theme=tokyonight&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theabhisainii&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSaini&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhisainii&theme=tokyo-night&radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhisainii&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Currently Learning  
-
-- ⚛️ React.js  
-- 🌐 Node.js & Express  
-- 🧠 Data Structures & Algorithms  
-- 🔥 Backend Optimization  
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect With M
 
 <p align="center">
   <a href="https://github.com/theabhisainii">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=30"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer" />
 </p>
