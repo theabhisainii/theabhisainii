@@ -17,13 +17,22 @@
 ---
 
 ## 🧠 About Me
-
-```js
-const abhishek = {
-  education: "BCA (5th Semester)",
-  role: "Frontend / Full Stack Developer",
-  skills: ["HTML", "CSS", "JavaScript"],
-  currentlyLearning: ["Advanced JavaScript", "Backend"],
-  goal: "Become a Professional Full Stack Developer",
+- 🎓 **BCA Student (5th Semester)**
+- 💻 Frontend Developer (HTML, CSS, JavaScript)
+- 🌱 Currently learning **JavaScript & Full Stack**
+- 🎯 Goal: **Full Stack Developer Job**
+- 🔥 Passionate about building clean & modern UI
   mindset: "Consistency > Motivation"
+
 }
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer" />
+</p>
