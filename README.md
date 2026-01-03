@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Full Stack Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
 - 🧠 Exploring **Next.js, MongoDB, REST APIs**
-- 📫 Reach me at: **abhisheksaini@email.com**
+- 📫 Reach me at: **sainiabhishek540@gmail.com**
 - ⚡ Fun fact: *I debug more than I code 😄*
 
 ---
