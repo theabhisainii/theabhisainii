@@ -1,47 +1,62 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Abhishek%20Saini&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Making&descAlignY=58&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Abhishek%20Saini&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=00E6FF&center=true&vCenter=true&width=650&lines=🚀+BCA+Student+%7C+Web+Developer;💻+HTML+CSS+JavaScript;🔥+Future+Full+Stack+Engineer;📚+Always+Learning+New+Tech" />
-</p>
+<h2 align="center">🚀 Front-End / Full Stack Developer</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhishekSaini&label=Profile%20Views&color=0ef&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=AbhishekSaini&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h2 align="center">🙏 Jai Shree Ram 🙏</h2>
+### Hi 👋, I'm Abhishek Saini  
+**A passionate developer who loves building modern web applications** 💻✨
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🌱 Currently learning **Full Stack Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
+- 🧠 Exploring **Next.js, MongoDB, REST APIs**
+- 📫 Reach me at: **abhisheksaini@email.com**
+- ⚡ Fun fact: *I debug more than I code 😄*
 
 ---
 
-## 🧠 About Me
-- 🎓 **BCA Student (5th Semester)**
-- 💻 Frontend Developer (HTML, CSS, JavaScript)
-- 🌱 Currently learning **JavaScript & Full Stack**
-- 🎯 Goal: **Full Stack Developer Job**
-- 🔥 Passionate about building clean & modern UI
-  mindset: "Consistency > Motivation"
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/theabhisainii">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:abhisheksaini@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
+### 🛠 Languages & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSaini&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSaini&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile!  
 </p>
