@@ -1,52 +1,67 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Abhishek%20Saini&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Abhishek%20Saini&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 Front-End / Full Stack Developer</h2>
+<h3 align="center">🚀 Front-End / Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhishekSaini&label=Profile%20views&color=0e75b6&style=flat" />
+  Turning ideas into code & bugs into lessons 💡🐞
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theabhisainii&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### Hi 👋, I'm Abhishek Saini  
-**A passionate developer who loves building modern web applications** 💻✨
+## 👋 Hi, I'm Abhishek Saini
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I’m a passionate **Front-End / Full Stack Developer** who enjoys building  
+**modern, responsive, and user-friendly web applications**.
 
 - 🌱 Currently learning **Full Stack Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
-- 🧠 Exploring **Next.js, MongoDB, REST APIs**
-- 📫 Reach me at: **sainiabhishek540@gmail.com**
+- 💻 Love working with clean UI & efficient code
+- 🎯 Goal: Become a skilled full stack developer
 - ⚡ Fun fact: *I debug more than I code 😄*
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:sainiabhishek540@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+## 🛠 Tech Stack
+
+### 🌐 Front-End
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+
+### 🧩 Back-End & Database
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
 
 ---
 
-### 🛠 Languages & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+## 📚 Currently Exploring
+- Next.js  
+- REST APIs  
+- Backend Architecture  
 
 ---
 
-### 📊 GitHub Stats:
+## 📫 Connect With Me
+
+- 📧 Email: **sainiahishek540@gmail.com**
+- 📍 Location: **Noida, India**
+- 💼 Open to **Internships / Junior Developer Roles**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theabhisainii&show_icons=true&theme=tokyonight" />
 </p>
@@ -55,8 +70,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhisainii&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhisainii&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-<p align="center">
-  💙 Thanks for visiting my profile!  
-</p>
+### ✨ Thank you for visiting my profile!
+⭐ Feel free to explore my repositories and connect with me.
