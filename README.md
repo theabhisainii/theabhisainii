@@ -63,15 +63,15 @@ I’m a passionate **Front-End / Full Stack Developer** who enjoys building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theabhisainii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theabhisainii&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhisainii&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theabhisainii&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhisainii&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theabhisainii&layout=compact&theme=tokyonight" />
 </p>
 
 ---
