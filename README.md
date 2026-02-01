@@ -2,78 +2,50 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Abhishek%20Saini&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🚀 Front-End / Full Stack Developer</h3>
+<h2 align="center">🚀 Front-End / Full Stack Developer</h2>
 
 <p align="center">
-  Turning ideas into scalable code & bugs into experience 💡🐞
+  <strong>Turning ideas into scalable code & bugs into experience 💡🐞</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theabhisainii&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Theabhisainii&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Theabhisainii?label=Followers&style=flat-square&color=0072ff">
 </p>
 
 ---
 
-## 👋 Hello World, I'm Abhishek Saini
+### 👋 Hello World, I'm Abhishek Saini
 
-<img align="right" alt="Developer Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I’m a passionate **Front-End / Full Stack Developer** focused on building  
-**clean, modern, and high-performance web applications**.
+I’m a passionate **Full Stack Developer** focused on building clean, modern, and high-performance web applications. I enjoy bridging the gap between design and functionality.
 
-- 🌱 Currently learning **Advanced Full Stack Development**
-- 🧠 Strong interest in **UI/UX & System Design**
-- 💻 Believe in **clean code > clever code**
-- ⚡ Fun fact: *Console.log is my best friend 😄*
+* 🌱 **Current focus:** Advanced Full Stack Development & Backend Architecture.
+* 🧠 **Interests:** UI/UX Design, System Design, and Clean Code.
+* ⚡ **Philosophy:** *“Code is like humor. When you have to explain it, it’s bad.”*
+* 💬 **Ask me about:** React, JavaScript, or why `console.log` is the goat.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### 🌐 Front-End
-- HTML5  
-- CSS3 / Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
-
-### 🧩 Back-End & Database
-- Node.js  
-- Express.js  
-- MongoDB  
-
-### 🔧 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-## 🚀 What I’m Working On
-- Building **full stack projects**
-- Improving **problem-solving skills**
-- Writing **clean & reusable components**
-- Learning **real-world backend architecture**
+### 🚀 Featured Projects
+
+* **[Project Name]** - A full-stack application for [describe purpose]. Built with **React, Node.js, and MongoDB**.
+* **[Project Name]** - [Brief one-liner about what it does]. Focus on **UI/UX and Performance**.
 
 ---
 
-## 📚 Currently Exploring
-- Next.js  
-- REST APIs & Authentication  
-- Deployment (Vercel / Render)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **sainiahishek540@gmail.com**
-- 📍 Location: **Noida, India**
-- 💼 Open to **Internships / Junior Developer Roles**
-- 🌐 GitHub: [@Theabhisainii](https://github.com/Theabhisainii)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Theabhisainii&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -83,16 +55,21 @@ I’m a passionate **Front-End / Full Stack Developer** focused on building
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theabhisainii&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theabhisainii&layout=compact&theme=tokyonight&hide_border=true" />
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:sainiahishek540@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Theabhisainii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-## ✨ Quote I Live By
-> *“Code. Learn. Break. Fix. Repeat.”*
+- 📍 **Location:** Noida, India
+- 💼 **Status:** Open to Internships / Junior Developer Roles
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-🤝 Feel free to explore my repositories and connect with me.
+<p align="center">
+  <i>“Code. Learn. Break. Fix. Repeat.”</i><br>
+  <b>Thanks for stopping by! ⭐</b>
+</p>
