@@ -1,67 +1,66 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Abhishek%20Saini&fontSize=70&fontColor=ffffff&animation=fadeIn" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Abhishek%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">🚀 Front-End Developer | React & JavaScript | Aspiring Full Stack Engineer</h2>
-
+<!-- Typing Animation -->
 <p align="center">
-  <strong>Turning ideas into clean UI & functional code 💻✨</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theabhisainii&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Theabhisainii?label=Followers&style=flat-square&color=0072ff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+JavaScript+Lover;Aspiring+Full+Stack+Engineer;Building+Clean+UI+%26+Smart+Code" />
 </p>
 
 ---
 
-## 👋 Hello World, I'm Abhishek Saini
+<h2 align="center">🚀 Front-End Developer | React | JavaScript</h2>
 
-<img align="right" alt="Developer Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-I’m a **Front-End focused developer** currently learning **Full Stack Web Development**.  
-I love building **responsive, clean, and user-friendly interfaces** and improving my skills by building real projects.
-
-- 🎓 **Course:** BCA Student  
-- 🌱 **Currently learning:** React, Backend APIs & Advanced JavaScript  
-- 🧠 **Interests:** UI/UX Design, Clean Code, Web Performance  
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React  
-- ⚡ **Fun fact:** `console.log()` has saved my life more times than I can count 😄
+<p align="center">
+  💻 Turning ideas into <b>clean UI & functional code</b>
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Advanced JavaScript (Closures, Async/Await, Promises)
-- React Hooks & Component Design
-- Backend with Node.js & Express
-- Git & GitHub best practices
+## 👋 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 BCA Student  
+- 🌱 Learning **Full Stack Development**  
+- ⚡ Love building **modern UI & responsive apps**  
+- 💬 Ask me about **HTML, CSS, JS, React**  
+- 😄 Fun fact: `console.log()` = best debugger  
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced JavaScript (Closures, Async/Await)
+- React Hooks & Optimization
+- Backend (Node.js + Express)
+- MongoDB & APIs
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category | Tools |
-|--------|-------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Personal Portfolio Website**  
-  Responsive portfolio website built using **HTML, CSS, and JavaScript**.
+🔹 **Portfolio Website**  
+Responsive personal portfolio  
 
-- **Profile Card UI**  
-  Clean and modern profile card design using **pure HTML & CSS**.
+🔹 **Profile Card UI**  
+Modern UI design using HTML & CSS  
 
-- **Login Page UI**  
-  User-friendly and responsive login page design.
+🔹 **Login Page UI**  
+Clean and responsive login page  
 
-> 📌 More projects coming soon as I continue learning Full Stack development.
+📌 More projects coming soon...
 
 ---
 
@@ -72,8 +71,12 @@ I love building **responsive, clean, and user-friendly interfaces** and improvin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theabhisainii&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Theabhisainii&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theabhisainii&theme=tokyo-night&hide_border=true"/>
@@ -81,23 +84,26 @@ I love building **responsive, clean, and user-friendly interfaces** and improvin
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:sainiahishek540@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Theabhisainii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-- 📍 **Location:** Noida, India  
-- 💼 **Status:** Open to Internships / Junior Developer Roles  
+---
+
+## 💼 Status
+
+- 📍 Noida, India  
+- 💼 Open for **Internships / Junior Developer Roles**
 
 ---
 
 <p align="center">
-  <i>“Code. Learn. Break. Fix. Repeat.”</i><br>
-  ⭐ If you like my work, consider starring my repositories!
+  <b>“Code. Learn. Break. Fix. Repeat.”</b> 🚀  
 </p>
