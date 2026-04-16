@@ -1,144 +1,82 @@
-<!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Abhishek%20Saini&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Abhishek%20Saini&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ⚡ Typing Animation -->
+<h2 align="center">🚀 Full-Stack Developer Apprentice | React & Node.js Specialist</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+%7C+JavaScript;Aspiring+Full+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
+  <strong>Crafting seamless user experiences with the MERN Stack 💻✨</strong>
 </p>
 
----
-
-## 🚀 Featured Project
-
-### 🎨 Animated UI Landing Header
-
 <p align="center">
-  <a href="https://codepen.io/tmrDevelops/pen/rVNxVQ" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-%230072ff?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-</p>
-
-#### 📌 Overview
-A visually engaging **animated landing header UI** built using canvas-based effects and smooth transitions to enhance modern web interfaces.
-
-#### ⚙️ Tech Used
-- HTML5  
-- CSS3  
-- JavaScript (Canvas API)
-
-#### ✨ Key Features
-- Smooth particle animation  
-- Dynamic color effects  
-- Lightweight & responsive  
-- Modern UI enhancement  
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🎓 BCA Student  
-- 💻 Front-End Developer (React + JS)  
-- 🚀 Learning Full Stack Development  
-- 🎯 Goal: Production-Level Developer  
-- 💡 Passionate about UI/UX & clean code  
-
----
-
-## 🌐 Portfolio & Resume
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge"/>
-  </a>
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/📄 Resume-Download-success?style=for-the-badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Theabhisainii&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Theabhisainii?label=Followers&style=flat-square&color=0072ff" />
 </p>
 
 ---
 
-## 🧠 Coding Profiles
+## 👋 Hello World, I'm Abhishek Saini 
+<img align="right" alt="Developer Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
-  </a>
-</p>
+I’m a **BCA Student** and an aspiring **Full Stack Engineer** based in Noida, India. I specialize in building responsive, clean, and high-performance web applications. My current focus is mastering the bridge between elegant Front-End UIs and robust Back-End logic.
+
+- 🎓 **Education:** Pursuing BCA (Bachelor of Computer Applications)
+- 🌱 **Current Focus:** Advanced React Patterns & RESTful API Design
+- 🧠 **Interests:** Scalable Web Performance, UI/UX Psychology, & Clean Architecture
+- ⚡ **Fun fact:** I spend 10% of my time writing code and 90% wondering why a semicolon broke it.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Theabhisainii&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+### 🌟 [Project Name 1]
+*Brief description of a MERN stack project here.*
+- **Tech:** React, Node.js, MongoDB
+- [Live Demo](#) | [Source Code](#)
+
+### 🎨 Personal Portfolio
+Modern, responsive portfolio showcasing my journey and UI skills.
+- **Tech:** HTML5, CSS3, JavaScript (ES6+)
+- [Live Demo](#) | [Source Code](#)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theabhisainii&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Theabhisainii&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Theabhisainii&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theabhisainii&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theabhisainii&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:sainiahishek540@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+## 📫 Connect With Me
+<p align="left">
+  <a href="mailto:sainiabhishek540@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Theabhisainii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-## 💼 Availability
-
-- 📍 Noida, India  
-- 💼 Open for Internships / Junior Developer Roles  
-- 🤝 Open to collaboration  
+- 📍 **Location:** Noida, India
+- 💼 **Open to:** Internships & Junior Developer Opportunities
 
 ---
-
-## 🧠 Developer Mindset
-
-```js
-const success = false;
-
-while (!success) {
-  learn();
-  build();
-  fail();
-  improve();
-}
+<p align="center">
+  <i>“Code. Learn. Break. Fix. Repeat.”</i><br>
+  ⭐ If you find my work helpful, consider starring my repositories!
+</p>
