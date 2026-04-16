@@ -1,7 +1,11 @@
-<!-- 🔥 Animated Header -->
+## 🎨 Animated UI Preview
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Abhishek%20Saini&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <a href="https://codepen.io/tmrDevelops/pen/rVNxVQ" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20to%20View%20Live%20UI-%230072ff?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
 </p>
+
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
