@@ -1,16 +1,38 @@
-## 🎨 Animated UI Preview
-
+<!-- 🔥 Animated Header -->
 <p align="center">
-  <a href="https://codepen.io/tmrDevelops/pen/rVNxVQ" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20to%20View%20Live%20UI-%230072ff?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Abhishek%20Saini&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+%7C+JavaScript;Aspiring+Full+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 🎨 Animated UI Landing Header
+
+<p align="center">
+  <a href="https://codepen.io/tmrDevelops/pen/rVNxVQ" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Live%20Project-%230072ff?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+</p>
+
+#### 📌 Overview
+A visually engaging **animated landing header UI** built using canvas-based effects and smooth transitions to enhance modern web interfaces.
+
+#### ⚙️ Tech Used
+- HTML5  
+- CSS3  
+- JavaScript (Canvas API)
+
+#### ✨ Key Features
+- Smooth particle animation  
+- Dynamic color effects  
+- Lightweight & responsive  
+- Modern UI enhancement  
 
 ---
 
@@ -21,7 +43,7 @@
 - 🎓 BCA Student  
 - 💻 Front-End Developer (React + JS)  
 - 🚀 Learning Full Stack Development  
-- 🎯 Goal: Become a Production-Level Developer  
+- 🎯 Goal: Production-Level Developer  
 - 💡 Passionate about UI/UX & clean code  
 
 ---
@@ -63,23 +85,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-- Fully responsive  
-- Clean UI & animations  
-
-### 🎨 Profile Card UI
-- Pure HTML + CSS  
-- Modern design  
-
-### 🔐 Login Page UI
-- Responsive authentication UI  
-
-📌 More full-stack projects coming soon...
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -101,14 +106,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theabhisainii&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theabhisainii&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
